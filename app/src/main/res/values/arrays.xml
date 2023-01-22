@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="takimIsimleri">
+        <item>Fenerbahçe</item>
+        <item>Galatasaray</item>
+        <item>Beşiktaş</item>
+        <item>Trabzonspor</item>
+        <item>Antalyaspor</item>
+        <item>Gaziantepspor</item>
+        <item>Başakşehir</item>
+        <item>Adana Demirspor</item>
+        <item>Alanyaspor</item>
+        <item>Ankaragücü</item>
+        <item>Konyaspor</item>
+        <item>Giresunspor</item>
+        <item>Kasımpaşa</item>
+        <item>Kayserispor</item>
+        <item>Ümraniyespor</item>
+        <item>Sivasspor</item>
+        <item>Fatih Karagümrük</item>
+        <item>istanbulspor</item>
+    </string-array>
+    <string-array name="takimDetay">
+        <item>
+            Fenerbahçe erkek futbol takımı,Fenerbahçe Spor Kulübünün Süper Ligde mücadele eden profesyonel futbol takımıdır.Kulübün futbol dışında faaliyet gösterdiği diğer spor dalları basketbol, voleybol, atletizm, boks, kürek, yelken, yüzme ve masa tenisidir. Fenerbahçe futbol takımı, iç saha maçlarını İstanbul Kadıköyde bulunan 50.530 kişilik Fenerbahçe Şükrü Saracoğlu Stadyumunda yapmaktadır. 1907 yılında bir spor kulübü olarak kurulan Fenerbahçe, Türkiye futbol tarihinin en başarılı ve en çok taraftarı olan spor kulüplerinden birisidir.
+        </item>
+        <item>
+            Galatasaray (futbol takımı), Galatasaray Spor Kulübünün Süper Ligde mücadele eden futbol takımıdır. Galatasaray Spor Kulübüne ait olan Galatasaray Sportif Anonim Şirketi, kulübün futbol takımının sahibidir. Galatasaray Spor Kulübünün 1997 yılında şirketleşme sürecine girmesinin ardından kurulmuştur. Hisselerinin %55,03ü Galatasaray Spor Kulübü Derneğine aittir, %44,96sı ise Borsa İstanbulda halka açıktır. Türkiye futbol tarihinin en başarılı ve en çok taraftarı olan spor kulüplerinden birisidir.
+        </item>
+        <item>
+            Beşiktaş, Beşiktaş Jimnastik Kulübünün Süper Ligde mücadele eden futbol takımı.1903 yılında Bereket Jimnastik Kulübü (Asıl Çerkesçe ismi Bereketiqo olup bazı kurucuların mensup olduğu Çerkes sülalesinden gelmektedir, Türkçeye Bereket olarak çevrilmiştir.) adıyla kurulan Beşiktaş JKnin, Ağustos 1911de kurulan şubesidir.Maçlarını 2012-13 sezonuna kadar 32.086 kapasiteli İnönü Stadyumunda oynamıştır.2012-13 sezonu sonunda kulüp, yeni stad yapım çalışmaları başlatmıştır.Armasında ay-yıldız taşıma izni verilen 28 Türk kulübünden biridir. Yurt içi ve yurt dışında gösterdiği performansı, kazandığı kupalar ve ilkleriyle Türkiyenin en büyük futbol kulüplerinden birisidir.
+        </item>
+        <item>
+            Trabzonspor Futbol Takımı, 2 Ağustos 1967de kurulan Trabzonspor Kulübünün profesyonel futbol takımı.Renkleri kulübün tüm branşlarda ortak olarak kullandığı, koyu bordo ve açık mavidir. Trabzonspor Futbol Takımı, Süper Ligde şampiyon olmuş İstanbul dışındaki ilk takımdır ve şampiyon olmayı başarmış altı takımdan biridir. Ayrıca, kazandığı yedi şampiyonlukla; armasında yıldız bulunan dört takımdan biridir.Takımın forma üreticisi Macrondur. Takımın maçlarını oynadığı sahası Trabzon’da bulunan Şenol Güneş Spor Kompleksi Medical Park Stadyumudur.
+        </item>
+        <item>
+            Antalyaspor, çeşitli dallarda ve liglerde mücadele eden futbol takımı ile tanınmış Türk spor kulübü. Antalya kentini liglerde temsil eden kulübün ilk şubesi olan futbol şubesi 2 Temmuz 1966 tarihinde kuruldu ve 11 Kasım 1966da profesyonel liglere adım attı.Antalyaspor A.Ş., Antalyaspor Derneği ve Antalyaspor Vakfı olarak ayrılan kulüpte, şirket sadece futbol yönetiminden sorumlu bir kuruluştur. Antalyaspor Derneği ise bünyesindeki voleybol, jimnastik, masa tenisi, Amerikan futbolu, bisiklet, judo, sutopu, triatlon, espor, yüzme, atletizm, boks, buz hokeyi ve güreş dallarında etkinlik gösterir. Lakapları Akrep olan kulübün renkleri kırmızı-beyazdır.
+        </item>
+        <item>
+            Eklenecek
+        </item>
+        <item>
+            İstanbul Başakşehir Futbol Kulübü veya sponsorluk anlaşması gereğince Medipol Başakşehir Futbol Kulübü, 1990 yılında dönemin İstanbul Belediye Başkanı Nurettin Sözen tarafından kurulan ve 2014 yılının Haziran ayına kadar İstanbul Büyükşehir Belediyespor bünyesinde faaliyet göstermesinin ardından, 4 Haziran 2014 tarihinde belediye bünyesinden ayrılıp faaliyetlerine futbol kulübü olarak devam etme kararı alarak ismini İstanbul Başakşehir Futbol Kulübü olarak değiştiren futbol kulübü. Kulüp maçlarını İstanbulun Başakşehir ilçesinde yer alan Başakşehir Fatih Terim Stadyumunda oynamaktadır. Şu anki teknik direktörü Emre Belözoğludur. 2019-20 Süper Lig sezonunda tarihinde ilk kez lig şampiyonu oldu.
+        </item>
+        <item>
+            Adana Demirspor Kulübü, resmî olarak 28 Aralık 1940ta Adanada kurulmuş, renkleri mavi-lacivert olan spor kulübü. Süper Ligde mücadele etmektedir. 1960 yılında Adana kentinin TFF tarafından organize edilen profesyonel ligde temsil edilen ilk takımıdır. Bu şekilde İstanbul, Ankara ve İzmir takımlarından sonra profesyonel ligde oynayan ilk takım olmuştur.
+        </item>
+        <item>
+            Alanyaspor ya da sponsorluk anlaşması gereği Corendon Alanyaspor,Antalyanın Alanya ilçesindeki futbol kulübüdür. Renkleri turuncu ve yeşildir. Maçlarını 10.128 kişilik Alanya Oba Stadyumunda oynamaktadır. 2015-16 sezonunda 1. Ligde mücadele eden Alanyaspor, play-off maçları sonucu 2016-17 sezonunda Süper Ligde mücadele etmeye hak kazandı.
+        </item>
+        <item>
+            MKE Ankaragücü ya da tam adıyla MKE Ankaragücü Gençlik ve Spor Kulübü, genellikle futbol takımıyla tanınan Ankara merkezli ve şehrin ilk spor kulübü.Osmanlı İmparatorluğu döneminde İstanbul çapında futbol maçlarının yapıldığı İstanbul Ligi sürmekteyken 31 Ağustos 1910 tarihinde o zamanlar Zeytinburnunda bulunan İmalât-ı Harbiye Mektebinin son sınıf öğrencilerinden Şükrü Abbas öncülüğünde Turan Sanatkarangücü, Agâh Orhan öncülüğünde ise Altınörs İdmanyurdu takımları kuruldu.13 Kasım 1918 tarihindeki İstanbulun İşgali sonrasında iki yıl daha İstanbulda kalan Turan Sanatkarangücü ve Altınörs İdmanyurdu takımları, Kurtuluş Savaşı ile birlikte merkezlerini 1920 yılında Ankaraya taşır.
+        </item>
+        <item>
+            Konyaspor, veya sponsorluk anlaşması gereği Arabam.com Konyaspor Türkiyenin Konya şehrinde 1922 yılında kurulan spor kulübü. Kulübün forma renkleri yeşil ve beyazdır. Süper Ligde mücadele etmektedir. İç saha maçlarını 42.042 kişilik Konya Büyükşehir Belediye Stadyumunda oynamaktadır.Kulüp 22 Haziran 1922 tarihinde Konya Gençlerbirliği adıyla kurulmuştur. 1965 yılında ise Meramspor, Selçukspor ve Çimentospor ile birleşerek Konyaspor adını almıştır.
+        </item>
+        <item>
+            Giresunspor, veya sponsorluk anlaşması gereği Bitexen Giresunspor, Giresunda ilk olarak 1925, daha sonra 1967 yılında tekrar kurulmuş olan bir spor kulübüdür. Süper Ligde oynamaktadır. Kulübün lakabı Çotanaklardır. Çotanak, fındığın ağaç dalındaki haline denmektedir. Çotanak figürü kulübün armasında da mevcuttur. Kulübün futbol şubesi dışında erkek hentbol şubesi de mevcuttur.
+        </item>
+        <item>
+            Kasımpaşa Spor Kulübü ya da kısaca Kasımpaşa, futbol branşıyla tanınan Türk spor kulübü. Kulüp 1921 yılında İstanbulun Kasımpaşa semtinde kurulmuştur. Kulübün başkanlığını Mehmet Fatih Saraç yapmaktadır.Kasımpaşa Spor Kulübü, güncel olarak futbol (erkek) ve güreş dallarında faaliyet göstermektedir. Futbol Takımı daha önce, 1988-89, 1996-97, 2004-05 yıllarında 3. Ligde, 2005-06da 2. Ligde ve 2006-07, 2008-09, 2011-12 sezonlarında ise 1. Lig play-offlarında şampiyon olma başarıları göstermiştir.
+        </item>
+        <item>
+            1988 yılında 3. Lige çıkan Kayseri Emniyetspor, Emniyet takımlarının ligden çekilmesi gerektiği yönünde Emniyet Genel Müdürlüğünce karar verilince Kayseri Emniyet Müdürü Yaşar Gökışıkın gayretleri ile sivil bir yönetim oluşturularak siyah-beyaz renkler ile Kayseri Erciyesspor ismi yeniden canlandırılmıştır. 3-4 sezon bu isim ve renklerde mücadele eden Kayseri Erciyesspor, Kayseri Büyükşehir Belediyespor ile birleşerek mavi-beyaz renkler ile Büyükşehir Belediye Erciyesspor ismi ile 3. Ligde mücadelesine devam etmiştir. Bir süre sonra Kulüp Melikgazi Belediyespora devredilmiş ve renkleri kırmızı-sarı olmuştur.
+        </item>
+        <item>
+            Ümraniyespor, 1938 yılında kurulmuş; 1990lı yıllarda 7 sezon Üçüncü Ligde mücadele ettikten sonra 2000 yılında amatör kümeye düşmüştür. 2009-10 sezonunda Süper Amatör Ligde,2010-11 sezonunda ise Bölgesel Amatör Ligde grubunda lider tamamlamış ve Spor Toto 3. Lige yükselmiştir.2012-13 sezonunda katıldığı Türkiye Kupasında Anadolu Üsküdar takımını 2-0 yenip Kayseri Erciyessporun rakibi olmuştur. Kayseri Erciyesspor ile oynanan maçta normal süresi 1-1 tamamlanan karşılaşmanın uzatma dakikalarında kalesinde gördüğü golle Kayseri Erciyesspor’a 2-1 yenilmiştir. 2012-13 sezonunu 5. sırada bitiren Ümraniyespor, Play-off Finalinde Çanakkale Dardanele 5-0 mağlup olmuştur.
+        </item>
+        <item>
+            1967 Mart ayında Nusret Akça, Hüseyin Yıldırım, Hüseyin Pala, Nurettin Tarıkahya, Yalçın Özden gibi isimler ilk olarak o günün Belediye Başkanı Ahmet Durakoğluna ve dönemin Valisi Vefik Kitapçıgile giderek durumu anlatırlar. Vali olaya çok sıcak yaklaşır ve kurulacak olan kulübün yalnızca sportif açıdan değerlendirilmemesi gerektiğini dile getirerek bu oluşumu şehrin kültürel, ekonomik ve sosyal hayatına da büyük bir hareketlilik getireceğini belirtir. Valinin dile getirdiği son derece olumlu sözlerini duyan kurul üyeleri sevinirler.
+        </item>
+        <item>
+            Fatih Karagümrük Spor Kulübü veya kısaca Karagümrük ya da sponsorluk anlaşması gereğince Vavacars Fatih Karagümrük. İsmini İstanbulun Fatih ilçesinin Karagümrük mahallesinden alan spor kulübü. 2020-21 sezonunda itibaren maçlarını 76.092 koltuk kapasiteli Atatürk Olimpiyat Stadyumunda oynamaktadır. Kulübün ayrıca Kadınlar Süper Liginde mücadele eden kadın futbol takımı da mevcuttur.
+        </item>
+        <item>
+            İstanbulspor, 1926 yılında Kemal Halim Gürgen tarafından kurulmuştur ve Türk futbolunun en köklü kulüplerinden biridir. 1932 yılında Türkiye Futbol Şampiyonasını kazanarak İstanbulun ilk Türkiye şampiyonu olmuştur. Kulüp, 2021-22 sezonu 1. Lig play-off maçları sonucunda 17 sezon sonra yeniden Süper Lige yükselmiştir. Süper Ligde mücadele etmektedir.
+        </item>
+    </string-array>
+</resources>
